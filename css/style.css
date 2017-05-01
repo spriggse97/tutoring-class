@@ -39,19 +39,35 @@
   text-decoration: none;
   color: black;
   float: right;
-
-
-
 }
 .button_building:hover{
   background-color: blue;
 }
+.definition{
+  text-decoration: none;
+  color: gray;
+}
+.definition:hover{
+  background-color: black;
+  color: white;
+}
+.footer{
+  background-color: #464647;
+
+  padding: 100px;
+}
 #coloring_paragraph1{
   color: gray;
+padding-right: 30px;
 }
 #coloring_paragraph2{
   color: gray;
+  padding-right: 30px;
 }
 #coloring_paragraph3{
   color: gray;
+padding-right: 30px;
+}
+#pics{
+
 }
