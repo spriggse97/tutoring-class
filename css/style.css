@@ -7,3 +7,51 @@
 .after-box {
   clear: left;
 }
+.padding_div{
+  margin-left: 50px;
+  padding-left: 30px;
+  padding-bottom: 20px;
+  width:200px;
+  border: 5px;
+  border-radius: 12px;
+  border-color: gray;
+  border-style: solid;
+  float: left;
+}
+.center_the_blocks{
+      margin-left: 200px;
+}
+.tittle_marks{
+  font-size: 32px;
+  color:#23334c ;
+  padding-left: 5px;
+}
+.button_building{
+  /* the button box*/
+  margin-right:  10px;
+  border: 2px;
+  border-color: gray;
+  border-style: solid;
+  border-radius: 12px;
+  padding: 10px 5px;
+  background-color: red;
+  /*button text text */
+  text-decoration: none;
+  color: black;
+  float: right;
+
+
+
+}
+.button_building:hover{
+  background-color: blue;
+}
+#coloring_paragraph1{
+  color: gray;
+}
+#coloring_paragraph2{
+  color: gray;
+}
+#coloring_paragraph3{
+  color: gray;
+}
